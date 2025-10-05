@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "cLKcu6MENtGxFc334Q1ht",
+      "type": "text",
+      "x": 50,
+      "y": 124,
+      "width": 541.11962890625,
+      "height": 175,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 1168204269,
+      "version": 441,
+      "versionNonce": 1210816899,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1759693561134,
+      "link": null,
+      "locked": false,
+      "text": "Steps to solve pattern problems:\n1. For the outer loop count the number of rows.\n2. For the inner loop focus on the number of columns\nand somhow connect them to the rows.\n3. Print '*' inside the inner for loop.\n4. Observe symmetry (Only applicable to some patterns)\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Steps to solve pattern problems:\n1. For the outer loop count the number of rows.\n2. For the inner loop focus on the number of columns\nand somhow connect them to the rows.\n3. Print '*' inside the inner for loop.\n4. Observe symmetry (Only applicable to some patterns)\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
