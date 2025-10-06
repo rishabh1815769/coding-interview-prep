@@ -55,6 +55,13 @@ void pattern6(int rows) {
   }
 }
 
+void pattern7(int rows) {
+  for (int i = 0; i < rows; ++i) {
+    for (int j = 0; j < rows - i - 1; ++j) {
+    }
+  }
+}
+
 int main() {
   //   pattern1(4, 4);
   pattern6(5);
